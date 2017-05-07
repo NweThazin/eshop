@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Team4EShop</string>
+    <string name="ProductName">Product Name</string>
+    <string name="Description">Description</string>
+    <string name="Category">Category</string>
+    <string name="Price">Price</string>
+    <string name="Status">Status</string>
+    <string name="buttonBuy">Buy Now!</string>
+
+</resources>
